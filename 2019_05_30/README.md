@@ -20,11 +20,3 @@ gcc principal.c -o principal && ./principal
 ```   
 
 
-## cpu.c
-
-## mem.c
-
-## threads.c
-
-## io.c
-
